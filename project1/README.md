@@ -5,10 +5,10 @@ Due: **Friday, September 19th, 2025 at 11:59PM**
 Prior to starting **Project 1**, ensure you have went through the entirety of the [Setup README](https://github.com/umd-cmsc389e/fall25/tree/main/setup). 
 
 ## Importing Projects
-To import the project, you need to download `project1.zip`, extract it, and move it into the `saves` folder of your Fabric installation folder. The easiest way of doing this is the following:
+To import the project, you need to download `project1 TEMPLATE.zip`, extract it, and move it into the `saves` folder of your Fabric installation folder. The easiest way of doing this is the following:
 
-1. Download `project1.zip` from this directory
-2. Locate your `./Downloads` folder and extract the contents of `project1.zip` into `project1`
+1. Download `project1 TEMPLATE.zip` from this directory
+2. Locate your `./Downloads` folder and extract the contents of `project1 TEMPLATE.zip` into `project1`
 3. Use `Ctrl + X` on the `project1` folder to cut it, saving it into your clipboard
 4. Go to your Minecraft Launcher and locate the **Installation Folder** for `fabric-loader-1.20.1`, similar to what you did during setup. Click on "Open installations folder"
 ![image](https://hackmd.io/_uploads/B1PLvzvwJl.png)
